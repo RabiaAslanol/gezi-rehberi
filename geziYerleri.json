@@ -2,7 +2,7 @@
   {
     "ad": "Kapadokya",
     "aciklama": "Peri bacaları ve sıcak hava balonları ile ünlü.",
-    "resimUrl": "https://example.com/kapadokya.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Kapadokya-G%C3%96RSELLER-2.jpg",
     "latitude": 38.6400,
     "longitude": 34.8300,
     "kisaTarihce": "Kapadokya, M.Ö. 3000’lere dayanan bir yerleşim yeridir.",
@@ -12,7 +12,7 @@
   {
     "ad": "Pamukkale",
     "aciklama": "Travertenleriyle ünlü termal su cenneti.",
-    "resimUrl": "https://example.com/pamukkale.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pamukkale_30.jpg",
     "latitude": 37.9140,
     "longitude": 29.1172,
     "kisaTarihce": "Pamukkale, Hierapolis antik kentinin yanında yer alır.",
@@ -22,7 +22,7 @@
   {
     "ad": "Ayasofya",
     "aciklama": "Kilise, cami ve müze olarak kullanılan tarihi yapı.",
-    "resimUrl": "https://example.com/ayasofya.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ayasofya%2C_%C4%B0stanbul%2C_T%C3%BCrkiye.jpg",
     "latitude": 41.0086,
     "longitude": 28.9802,
     "kisaTarihce": "537 yılında inşa edilen yapı, Bizans ve Osmanlı izleri taşır.",
@@ -32,7 +32,7 @@
   {
     "ad": "Topkapı Sarayı",
     "aciklama": "Osmanlı padişahlarının yaşadığı büyük saray.",
-    "resimUrl": "https://example.com/topkapi.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Istanbul_Topkapi_Sarayi.JPG",
     "latitude": 41.0122,
     "longitude": 28.9833,
     "kisaTarihce": "1465’te Fatih Sultan Mehmet tarafından yaptırılmıştır.",
@@ -42,7 +42,7 @@
   {
     "ad": "Efes Antik Kenti",
     "aciklama": "Roma dönemine ait önemli bir antik kenttir.",
-    "resimUrl": "https://example.com/efes.jpg",
+    "resimUrl": "https://img-hopi.mncdn.com/a2/33/a233a28e60be4e97bb8b90d369606d98.jpeg",
     "latitude": 37.9394,
     "longitude": 27.3419,
     "kisaTarihce": "Artemis Tapınağı ile ünlü Efes, M.Ö. 6000'e dayanır.",
@@ -52,7 +52,7 @@
   {
     "ad": "Nemrut Dağı",
     "aciklama": "Dev heykelleri ve gün doğumu ile ünlü dağ.",
-    "resimUrl": "https://example.com/nemrut.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nemrut_Da%C4%9F%C4%B1_13.jpg",
     "latitude": 37.9800,
     "longitude": 38.7400,
     "kisaTarihce": "Kommagene Krallığı'nın kral mezarları burada yer alır.",
@@ -62,7 +62,7 @@
   {
     "ad": "Sümela Manastırı",
     "aciklama": "Karadeniz dağlarına oyulmuş antik manastır.",
-    "resimUrl": "https://example.com/sumela.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/S%C3%BCmela_Manast%C4%B1r.jpg",
     "latitude": 40.6903,
     "longitude": 39.6138,
     "kisaTarihce": "M.S. 386 yılında inşa edilmiştir.",
@@ -72,7 +72,7 @@
   {
     "ad": "Antalya Kaleiçi",
     "aciklama": "Tarihi sokakları ve limanı ile ünlü bölge.",
-    "resimUrl": "https://example.com/kaleici.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Antalya_kalei%C3%A7i_2.jpg",
     "latitude": 36.8841,
     "longitude": 30.7056,
     "kisaTarihce": "Helenistik döneme dayanan tarihi bir liman kentidir.",
@@ -82,7 +82,7 @@
   {
     "ad": "Aspendos Tiyatrosu",
     "aciklama": "Dünyanın en iyi korunmuş antik tiyatrolarından biri.",
-    "resimUrl": "https://example.com/aspendos.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Roman_theater_in_Aspendos.jpg",
     "latitude": 36.9380,
     "longitude": 31.1744,
     "kisaTarihce": "Roma döneminde inşa edilmiştir, 15 bin kişilik kapasiteye sahiptir.",
@@ -92,7 +92,7 @@
   {
     "ad": "İshak Paşa Sarayı",
     "aciklama": "Doğu Anadolu'nun en etkileyici saray yapılarından.",
-    "resimUrl": "https://example.com/ishak.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/%C4%B0shak_Pa%C5%9Fa_Saray%C4%B1.jpg",
     "latitude": 39.5200,
     "longitude": 44.1200,
     "kisaTarihce": "1685'te yapımına başlanan saray, 1784'te tamamlandı.",
@@ -102,7 +102,7 @@
   {
     "ad": "Hasankeyf",
     "aciklama": "Dicle Nehri kıyısında tarihi yerleşim.",
-    "resimUrl": "https://example.com/hasankeyf.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hasankeyf_baskaaci_panoramic.jpg",
     "latitude": 37.7167,
     "longitude": 41.4167,
     "kisaTarihce": "12.000 yıllık tarihe sahip yerleşim alanıdır.",
@@ -112,7 +112,7 @@
   {
     "ad": "Bozcaada",
     "aciklama": "Ege Denizi'nde huzurlu bir ada.",
-    "resimUrl": "https://example.com/bozcaada.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bozcaada.jpg",
     "latitude": 39.8333,
     "longitude": 26.0667,
     "kisaTarihce": "Antik Tenedos, mitoloji ve tarihiyle tanınır.",
@@ -122,7 +122,7 @@
   {
     "ad": "Anıtkabir",
     "aciklama": "Atatürk'ün anıt mezarı.",
-    "resimUrl": "https://example.com/anitkabir.jpg",
+    "resimUrl": "https://tr.wikipedia.org/wiki/Dosya:Ataturk%27s_Mausoleum_(6225341313).jpg",
     "latitude": 39.9251,
     "longitude": 32.8369,
     "kisaTarihce": "1944-1953 yılları arasında inşa edilmiştir.",
@@ -132,7 +132,7 @@
   {
     "ad": "Uzungöl",
     "aciklama": "Karadeniz’in doğa harikası gölü.",
-    "resimUrl": "https://example.com/uzungol.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Uzung%C3%B6l.jpg",
     "latitude": 40.6167,
     "longitude": 40.6500,
     "kisaTarihce": "Yamaçlardan düşen kayaların vadiyi kapatmasıyla oluşmuştur.",
@@ -142,7 +142,7 @@
   {
     "ad": "Safranbolu",
     "aciklama": "Osmanlı döneminden kalma evleriyle ünlü.",
-    "resimUrl": "https://example.com/safranbolu.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Safranbolu_traditional_houses.jpg",
     "latitude": 41.2500,
     "longitude": 32.6833,
     "kisaTarihce": "UNESCO Dünya Mirası listesine alınmıştır.",
@@ -152,7 +152,7 @@
   {
     "ad": "Kız Kulesi",
     "aciklama": "Boğazın ortasında eşsiz bir yapı.",
-    "resimUrl": "https://example.com/kizkulesi.jpg",
+    "resimUrl": "https://tr.wikipedia.org/wiki/Dosya:Jungfrauen-_oder_Leanderturm.jpg",
     "latitude": 41.0211,
     "longitude": 29.0047,
     "kisaTarihce": "Antik döneme kadar uzanan tarihçesi vardır.",
@@ -162,7 +162,7 @@
   {
     "ad": "Çırağan Sarayı",
     "aciklama": "Boğaz kıyısında lüks bir Osmanlı sarayı.",
-    "resimUrl": "https://example.com/ciragan.jpg",
+    "resimUrl": "https://tr.wikipedia.org/wiki/Dosya:%C3%87%C4%B1ra%C4%9Fan_Palace_from_the_Bosphorus_Strait_(cropped).jpg",
     "latitude": 41.0425,
     "longitude": 29.0139,
     "kisaTarihce": "1871’de Sultan Abdülaziz tarafından inşa ettirilmiştir.",
@@ -172,7 +172,7 @@
   {
     "ad": "Çatalhöyük",
     "aciklama": "Dünyanın en eski yerleşimlerinden biri.",
-    "resimUrl": "https://example.com/catalhoyuk.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_07.jpg",
     "latitude": 37.6667,
     "longitude": 32.8333,
     "kisaTarihce": "Neolitik döneme ait, 9000 yıl öncesine dayanır.",
@@ -182,7 +182,7 @@
   {
     "ad": "Göbeklitepe",
     "aciklama": "İnsanlık tarihinin en eski tapınak kompleksi.",
-    "resimUrl": "https://example.com/gobeklitepe.jpg",
+    "resimUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
     "latitude": 37.2231,
     "longitude": 38.9226,
     "kisaTarihce": "M.Ö. 9600’e tarihlenir, dinler tarihini yeniden yazmıştır.",
@@ -192,7 +192,7 @@
   {
     "ad": "Mardin Eski Şehir",
     "aciklama": "Taş yapılarıyla ünlü tarihi şehir merkezi.",
-    "resimUrl": "https://example.com/mardin.jpg",
+    "resimUrl": "https://imaj.emlakjet.com/resize/730/730/Haberler_Unicrow/1530280950731.jpg",
     "latitude": 37.3125,
     "longitude": 40.7430,
     "kisaTarihce": "Süryani, Arap, Kürt kültürlerinin harmanlandığı merkezdir.",
